@@ -1,15 +1,23 @@
-from flask import Flask, render_template
+from flask import render_template
+from apiflask import APIFlask
 from db import get_db, close_db
 import sqlalchemy
 from logger import log
+from datetime import datetime
 
-app = Flask(__name__)
+app = APIFlask(__name__)
 app.teardown_appcontext(close_db)
 
 
 @app.route("/")
 def index():
     return render_template("index.html")
+
+
+@app.route("/date")
+def date():
+    date = str(datetime.now())
+    return {"date": date}
 
 @app.route("/about")
 def about():
