@@ -1,3 +1,19 @@
+# v0.0.2 (Sat Nov 12 2022)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, null[@chrisjsimpson](https://github.com/chrisjsimpson), for all your work!
+
+#### ⚠️ Pushed to `main`
+
+- added hello to homepage ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.1 (Sat Nov 12 2022)
 
 :tada: This release contains work from a new contributor! :tada:
