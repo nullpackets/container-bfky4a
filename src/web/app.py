@@ -11,6 +11,10 @@ app.teardown_appcontext(close_db)
 def index():
     return render_template("index.html")
 
+@app.route("/about")
+def about():
+    """The about page"""
+    return render_template("about.html")
 
 @app.route("/health")
 def health():

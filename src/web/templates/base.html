@@ -1,8 +1,14 @@
 <!doctype html>
 <title>{% block title %}{% endblock %} - Flaskr</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<style>
+  body {
+    font-family: sans-serif;
+  }
+</style>
 <nav>
-  <h1>Flaskr</h1>
+  <a href="/" title="Home">Home</a> 
+  <a href="/about" title="About">About</a> 
 </nav>
 <section class="content">
   <header>
