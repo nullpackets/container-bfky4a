@@ -1,3 +1,16 @@
+# v0.0.4 (Sat Nov 12 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:nullpackets/container-bfky4a ([@chrisjsimpson](https://github.com/chrisjsimpson))
+- Added /date and APIFlask ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.3 (Sat Nov 12 2022)
 
 #### ⚠️ Pushed to `main`
