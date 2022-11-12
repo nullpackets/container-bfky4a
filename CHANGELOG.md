@@ -1,3 +1,16 @@
+# v0.0.3 (Sat Nov 12 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:nullpackets/container-bfky4a ([@chrisjsimpson](https://github.com/chrisjsimpson))
+- added about page ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.2 (Sat Nov 12 2022)
 
 :tada: This release contains work from a new contributor! :tada:
